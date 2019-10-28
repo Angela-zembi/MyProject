@@ -1,0 +1,48 @@
+E:\КУРСОВОЙ!!!!\kurs_BD_student\kurs_BD_student\bin\Debug\kurs_BD_student.exe.config
+E:\КУРСОВОЙ!!!!\kurs_BD_student\kurs_BD_student\bin\Debug\kurs_BD_student.exe
+E:\КУРСОВОЙ!!!!\kurs_BD_student\kurs_BD_student\bin\Debug\kurs_BD_student.pdb
+E:\КУРСОВОЙ!!!!\kurs_BD_student\kurs_BD_student\obj\Debug\kurs_BD_student.csprojResolveAssemblyReference.cache
+E:\КУРСОВОЙ!!!!\kurs_BD_student\kurs_BD_student\obj\Debug\kurs_BD_student.Properties.Resources.resources
+E:\КУРСОВОЙ!!!!\kurs_BD_student\kurs_BD_student\obj\Debug\kurs_BD_student.csproj.GenerateResource.Cache
+E:\КУРСОВОЙ!!!!\kurs_BD_student\kurs_BD_student\obj\Debug\kurs_BD_student.exe
+E:\КУРСОВОЙ!!!!\kurs_BD_student\kurs_BD_student\obj\Debug\kurs_BD_student.pdb
+E:\КУРСОВОЙ!!!!\kurs_BD_student\kurs_BD_student\obj\Debug\kurs_BD_student.Form2.resources
+E:\КУРСОВОЙ!!!!\kurs_BD_student\kurs_BD_student\obj\Debug\kurs_BD_student.Connection.resources
+E:\КУРСОВОЙ!!!!\kurs_BD_student\kurs_BD_student\obj\Debug\kurs_BD_student.AddStudents.resources
+E:\КУРСОВОЙ!!!!\kurs_BD_student\kurs_BD_student\obj\Debug\kurs_BD_student.Tables.resources
+E:\КУРСОВОЙ!!!!\kurs_BD_student\kurs_BD_student\obj\Debug\kurs_BD_student.Otchety.resources
+C:\Users\Devil\Desktop\Учеба\Курсовая Анжела\kurs_BD_student\kurs_BD_student\bin\Debug\kurs_BD_student.exe.config
+C:\Users\Devil\Desktop\Учеба\Курсовая Анжела\kurs_BD_student\kurs_BD_student\obj\Debug\kurs_BD_student.exe
+C:\Users\Devil\Desktop\Учеба\Курсовая Анжела\kurs_BD_student\kurs_BD_student\obj\Debug\kurs_BD_student.pdb
+C:\Users\Devil\Desktop\Учеба\Курсовая Анжела\kurs_BD_student\kurs_BD_student\bin\Debug\kurs_BD_student.exe
+C:\Users\Devil\Desktop\Учеба\Курсовая Анжела\kurs_BD_student\kurs_BD_student\bin\Debug\kurs_BD_student.pdb
+C:\Users\Devil\Desktop\Учеба\Курсовая Анжела\kurs_BD_student\kurs_BD_student\obj\Debug\kurs_BD_student.csprojResolveAssemblyReference.cache
+C:\Users\Devil\Desktop\Учеба\Курсовая Анжела\kurs_BD_student\kurs_BD_student\obj\Debug\kurs_BD_student.Connection.resources
+C:\Users\Devil\Desktop\Учеба\Курсовая Анжела\kurs_BD_student\kurs_BD_student\obj\Debug\kurs_BD_student.Otchety.resources
+C:\Users\Devil\Desktop\Учеба\Курсовая Анжела\kurs_BD_student\kurs_BD_student\obj\Debug\kurs_BD_student.Properties.Resources.resources
+C:\Users\Devil\Desktop\Учеба\Курсовая Анжела\kurs_BD_student\kurs_BD_student\obj\Debug\kurs_BD_student.Tables.resources
+C:\Users\Devil\Desktop\Учеба\Курсовая Анжела\kurs_BD_student\kurs_BD_student\obj\Debug\kurs_BD_student.csproj.GenerateResource.Cache
+C:\Users\Devil\Desktop\Учеба\Курсовая Анжела\kurs_BD_student\kurs_BD_student\obj\Debug\kurs_BD_student.AddAddresses.resources
+C:\Users\Devil\Desktop\Учеба\Курсовая Анжела\kurs_BD_student\kurs_BD_student\obj\Debug\kurs_BD_student.AddStudent.resources
+C:\Users\Devil\Desktop\Учеба\Курсовая Анжела\kurs_BD_student\kurs_BD_student\obj\Debug\kurs_BD_student.AddVUZ.resources
+C:\Users\Devil\Desktop\Учеба\Курсовая Анжела\kurs_BD_student\kurs_BD_student\obj\Debug\kurs_BD_student.MainForm.resources
+D:\Курсовая Анжела\kurs_BD_student\kurs_BD_student\bin\Debug\kurs_BD_student.exe.config
+D:\Курсовая Анжела\kurs_BD_student\kurs_BD_student\obj\Debug\kurs_BD_student.exe
+D:\Курсовая Анжела\kurs_BD_student\kurs_BD_student\obj\Debug\kurs_BD_student.pdb
+D:\Курсовая Анжела\kurs_BD_student\kurs_BD_student\bin\Debug\kurs_BD_student.exe
+D:\Курсовая Анжела\kurs_BD_student\kurs_BD_student\bin\Debug\kurs_BD_student.pdb
+D:\Курсовая Анжела\kurs_BD_student\kurs_BD_student\obj\Debug\kurs_BD_student.csprojResolveAssemblyReference.cache
+D:\Курсовая Анжела\kurs_BD_student\kurs_BD_student\obj\Debug\kurs_BD_student.AddAddresses.resources
+D:\Курсовая Анжела\kurs_BD_student\kurs_BD_student\obj\Debug\kurs_BD_student.AddStudent.resources
+D:\Курсовая Анжела\kurs_BD_student\kurs_BD_student\obj\Debug\kurs_BD_student.AddVUZ.resources
+D:\Курсовая Анжела\kurs_BD_student\kurs_BD_student\obj\Debug\kurs_BD_student.Connection.resources
+D:\Курсовая Анжела\kurs_BD_student\kurs_BD_student\obj\Debug\kurs_BD_student.MainForm.resources
+D:\Курсовая Анжела\kurs_BD_student\kurs_BD_student\obj\Debug\kurs_BD_student.Otchety.resources
+D:\Курсовая Анжела\kurs_BD_student\kurs_BD_student\obj\Debug\kurs_BD_student.Properties.Resources.resources
+D:\Курсовая Анжела\kurs_BD_student\kurs_BD_student\obj\Debug\kurs_BD_student.Tables.resources
+D:\Курсовая Анжела\kurs_BD_student\kurs_BD_student\obj\Debug\kurs_BD_student.csproj.GenerateResource.Cache
+D:\Курсовая Анжела\kurs_BD_student\kurs_BD_student\obj\Debug\RdlCompile.cache
+D:\Курсовая Анжела\kurs_BD_student\kurs_BD_student\obj\Debug\RdlCompile.compiled
+E:\КУРСОВОЙ\Курсовая\kurs_BD_student\kurs_BD_student\bin\Debug\kurs_BD_student.exe.config
+E:\КУРСОВОЙ\Курсовая\kurs_BD_student\kurs_BD_student\obj\Debug\kurs_BD_student.exe
+E:\КУРСОВОЙ\Курсовая\kurs_BD_student\kurs_BD_student\obj\Debug\kurs_BD_student.pdb

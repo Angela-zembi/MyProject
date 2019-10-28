@@ -1,0 +1,153 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xs:schema id="my_bdDataSet" targetNamespace="http://tempuri.org/my_bdDataSet.xsd" xmlns:mstns="http://tempuri.org/my_bdDataSet.xsd" xmlns="http://tempuri.org/my_bdDataSet.xsd" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:msprop="urn:schemas-microsoft-com:xml-msprop" attributeFormDefault="qualified" elementFormDefault="qualified">
+  <xs:annotation>
+    <xs:appinfo source="urn:schemas-microsoft-com:xml-msdatasource">
+      <DataSource DefaultConnectionIndex="0" FunctionsComponentName="QueriesTableAdapter" Modifier="AutoLayout, AnsiClass, Class, Public" SchemaSerializationMode="IncludeSchema" xmlns="urn:schemas-microsoft-com:xml-msdatasource">
+        <Connections>
+          <Connection AppSettingsObjectName="Settings" AppSettingsPropertyName="my_bdConnectionString" ConnectionStringObject="" IsAppSettingsProperty="true" Modifier="Assembly" Name="my_bdConnectionString (Settings)" ParameterPrefix="@" PropertyReference="ApplicationSettings.kurs_BD_student.Properties.Settings.GlobalReference.Default.my_bdConnectionString" Provider="System.Data.SqlClient" />
+        </Connections>
+        <Tables>
+          <TableAdapter BaseClass="System.ComponentModel.Component" DataAccessorModifier="AutoLayout, AnsiClass, Class, Public" DataAccessorName="ViewTableAdapter" GeneratorDataComponentClassName="ViewTableAdapter" Name="View" UserDataComponentName="ViewTableAdapter">
+            <MainSource>
+              <DbSource ConnectionRef="my_bdConnectionString (Settings)" DbObjectName="dbo.[View]" DbObjectType="View" FillMethodModifier="Public" FillMethodName="Fill" GenerateMethods="Both" GenerateShortCommands="false" GeneratorGetMethodName="GetData" GeneratorSourceName="Fill" GetMethodModifier="Public" GetMethodName="GetData" QueryType="Rowset" ScalarCallRetval="System.Object, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" UseOptimisticConcurrency="true" UserGetMethodName="GetData" UserSourceName="Fill">
+                <SelectCommand>
+                  <DbCommand CommandType="Text" ModifiedByUser="false">
+                    <CommandText>SELECT First_name, Last_name, Patronymic, Nationality, name_vuz FROM dbo.[View]</CommandText>
+                    <Parameters />
+                  </DbCommand>
+                </SelectCommand>
+              </DbSource>
+            </MainSource>
+            <Mappings>
+              <Mapping SourceColumn="First_name" DataSetColumn="First_name" />
+              <Mapping SourceColumn="Last_name" DataSetColumn="Last_name" />
+              <Mapping SourceColumn="Patronymic" DataSetColumn="Patronymic" />
+              <Mapping SourceColumn="Nationality" DataSetColumn="Nationality" />
+              <Mapping SourceColumn="name_vuz" DataSetColumn="name_vuz" />
+            </Mappings>
+            <Sources />
+          </TableAdapter>
+          <TableAdapter BaseClass="System.ComponentModel.Component" DataAccessorModifier="AutoLayout, AnsiClass, Class, Public" DataAccessorName="View1TableAdapter" GeneratorDataComponentClassName="View1TableAdapter" Name="View1" UserDataComponentName="View1TableAdapter">
+            <MainSource>
+              <DbSource ConnectionRef="my_bdConnectionString (Settings)" DbObjectName="dbo.View1" DbObjectType="View" FillMethodModifier="Public" FillMethodName="Fill" GenerateMethods="Both" GenerateShortCommands="false" GeneratorGetMethodName="GetData" GeneratorSourceName="Fill" GetMethodModifier="Public" GetMethodName="GetData" QueryType="Rowset" ScalarCallRetval="System.Object, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" UseOptimisticConcurrency="true" UserGetMethodName="GetData" UserSourceName="Fill">
+                <SelectCommand>
+                  <DbCommand CommandType="Text" ModifiedByUser="false">
+                    <CommandText>SELECT First_name, Last_name, Patronymic, Nationality, NameCity, Street_num, IndexNumber FROM dbo.View1</CommandText>
+                    <Parameters />
+                  </DbCommand>
+                </SelectCommand>
+              </DbSource>
+            </MainSource>
+            <Mappings>
+              <Mapping SourceColumn="First_name" DataSetColumn="First_name" />
+              <Mapping SourceColumn="Last_name" DataSetColumn="Last_name" />
+              <Mapping SourceColumn="Patronymic" DataSetColumn="Patronymic" />
+              <Mapping SourceColumn="Nationality" DataSetColumn="Nationality" />
+              <Mapping SourceColumn="NameCity" DataSetColumn="NameCity" />
+              <Mapping SourceColumn="Street_num" DataSetColumn="Street_num" />
+              <Mapping SourceColumn="IndexNumber" DataSetColumn="IndexNumber" />
+            </Mappings>
+            <Sources />
+          </TableAdapter>
+        </Tables>
+        <Sources />
+      </DataSource>
+    </xs:appinfo>
+  </xs:annotation>
+  <xs:element name="my_bdDataSet" msdata:IsDataSet="true" msdata:UseCurrentLocale="true" msprop:EnableTableAdapterManager="True" msprop:Generator_DataSetName="my_bdDataSet" msprop:Generator_UserDSName="my_bdDataSet">
+    <xs:complexType>
+      <xs:choice minOccurs="0" maxOccurs="unbounded">
+        <xs:element name="View" msprop:Generator_TableClassName="ViewDataTable" msprop:Generator_TableVarName="tableView" msprop:Generator_TablePropName="View" msprop:Generator_RowDeletingName="ViewRowDeleting" msprop:Generator_RowChangingName="ViewRowChanging" msprop:Generator_RowEvHandlerName="ViewRowChangeEventHandler" msprop:Generator_RowDeletedName="ViewRowDeleted" msprop:Generator_UserTableName="View" msprop:Generator_RowChangedName="ViewRowChanged" msprop:Generator_RowEvArgName="ViewRowChangeEvent" msprop:Generator_RowClassName="ViewRow">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="First_name" msprop:Generator_ColumnVarNameInTable="columnFirst_name" msprop:Generator_ColumnPropNameInRow="First_name" msprop:Generator_ColumnPropNameInTable="First_nameColumn" msprop:Generator_UserColumnName="First_name">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="15" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="Last_name" msprop:Generator_ColumnVarNameInTable="columnLast_name" msprop:Generator_ColumnPropNameInRow="Last_name" msprop:Generator_ColumnPropNameInTable="Last_nameColumn" msprop:Generator_UserColumnName="Last_name">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="15" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="Patronymic" msprop:Generator_ColumnVarNameInTable="columnPatronymic" msprop:Generator_ColumnPropNameInRow="Patronymic" msprop:Generator_ColumnPropNameInTable="PatronymicColumn" msprop:Generator_UserColumnName="Patronymic">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="15" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="Nationality" msprop:Generator_ColumnVarNameInTable="columnNationality" msprop:Generator_ColumnPropNameInRow="Nationality" msprop:Generator_ColumnPropNameInTable="NationalityColumn" msprop:Generator_UserColumnName="Nationality">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="15" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="name_vuz" msprop:Generator_ColumnVarNameInTable="columnname_vuz" msprop:Generator_ColumnPropNameInRow="name_vuz" msprop:Generator_ColumnPropNameInTable="name_vuzColumn" msprop:Generator_UserColumnName="name_vuz">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="50" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+        <xs:element name="View1" msprop:Generator_TableClassName="View1DataTable" msprop:Generator_TableVarName="tableView1" msprop:Generator_TablePropName="View1" msprop:Generator_RowDeletingName="View1RowDeleting" msprop:Generator_RowChangingName="View1RowChanging" msprop:Generator_RowEvHandlerName="View1RowChangeEventHandler" msprop:Generator_RowDeletedName="View1RowDeleted" msprop:Generator_UserTableName="View1" msprop:Generator_RowChangedName="View1RowChanged" msprop:Generator_RowEvArgName="View1RowChangeEvent" msprop:Generator_RowClassName="View1Row">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="First_name" msprop:Generator_ColumnVarNameInTable="columnFirst_name" msprop:Generator_ColumnPropNameInRow="First_name" msprop:Generator_ColumnPropNameInTable="First_nameColumn" msprop:Generator_UserColumnName="First_name">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="15" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="Last_name" msprop:Generator_ColumnVarNameInTable="columnLast_name" msprop:Generator_ColumnPropNameInRow="Last_name" msprop:Generator_ColumnPropNameInTable="Last_nameColumn" msprop:Generator_UserColumnName="Last_name">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="15" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="Patronymic" msprop:Generator_ColumnVarNameInTable="columnPatronymic" msprop:Generator_ColumnPropNameInRow="Patronymic" msprop:Generator_ColumnPropNameInTable="PatronymicColumn" msprop:Generator_UserColumnName="Patronymic">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="15" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="Nationality" msprop:Generator_ColumnVarNameInTable="columnNationality" msprop:Generator_ColumnPropNameInRow="Nationality" msprop:Generator_ColumnPropNameInTable="NationalityColumn" msprop:Generator_UserColumnName="Nationality">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="15" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="NameCity" msprop:Generator_ColumnVarNameInTable="columnNameCity" msprop:Generator_ColumnPropNameInRow="NameCity" msprop:Generator_ColumnPropNameInTable="NameCityColumn" msprop:Generator_UserColumnName="NameCity">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="25" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="Street_num" msprop:Generator_ColumnVarNameInTable="columnStreet_num" msprop:Generator_ColumnPropNameInRow="Street_num" msprop:Generator_ColumnPropNameInTable="Street_numColumn" msprop:Generator_UserColumnName="Street_num">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="20" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="IndexNumber" msprop:Generator_ColumnVarNameInTable="columnIndexNumber" msprop:Generator_ColumnPropNameInRow="IndexNumber" msprop:Generator_ColumnPropNameInTable="IndexNumberColumn" msprop:Generator_UserColumnName="IndexNumber" type="xs:int" />
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+      </xs:choice>
+    </xs:complexType>
+  </xs:element>
+</xs:schema>
